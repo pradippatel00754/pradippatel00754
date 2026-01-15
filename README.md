@@ -58,14 +58,9 @@ I build **production-grade AI systems**, not demos.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradippatel00754&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradippatel00754&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pradippatel00754&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
