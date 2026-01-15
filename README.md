@@ -55,21 +55,6 @@
 ---
 
 ## 🧬 Tech Universe (Animated)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,opencv,pytorch,tensorflow&perline=8"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=8"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,jenkins&perline=8"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,docker,kubernetes,nginx,postgres,mysql,mongodb,redis,linux,git,github,jenkins,pytorch,tensorflow&perline=9"/>
 </p>
@@ -82,7 +67,11 @@
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
