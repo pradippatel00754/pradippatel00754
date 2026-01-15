@@ -64,30 +64,10 @@
 
 ## 📈 Live GitHub Intelligence
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pradippatel00754&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
----
-
-## 🐍 Contribution Flow (Animated)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 🏆 Achievements & Impact
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&margin-w=15&no-frame=true"/>
-</p>
 
 ---
 
@@ -97,10 +77,6 @@
   <a href="https://www.linkedin.com/in/pradeep-patel-341b55146/">
     <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Patel-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pradippatel00754&icon=5&color=6"/>
 </p>
 
 <!-- FOOTER -->
