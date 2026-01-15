@@ -1,12 +1,82 @@
-<!-- Animated Header -->
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pradeep%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Pradeep%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- TYPING + ROLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+MLOps+Engineer;Generative+AI+%26+Agentic+AI+Specialist;Healthcare+AI+Automation+Expert;LLMs+%7C+FastAPI+%7C+Docker+%7C+Nginx"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+MLOps+Engineer;Generative+AI+%7C+Agentic+AI+Builder;Healthcare+AI+Automation+Specialist;LLMs+%7C+FastAPI+%7C+Docker+%7C+Nginx;Turning+Models+Into+Production+Systems"/>
 </p>
+
+<!-- GLASS DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656947-3f1b6a61-8f4f-4f4c-a9f0-0c6d8a7d3c9b.gif" width="70%"/>
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-US%20Healthcare-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Production%20AI-22C55E?style=for-the-badge"/>
+</p>
+
+💡 **Results-driven Data Scientist & MLOps Engineer** building  
+**secure, scalable & compliant AI systems** for real-world healthcare use-cases.
+
+🚫 I don’t build demos  
+✅ I ship **production-grade AI**
+
+---
+
+## ⚡ What Makes Me Different?
+
+✨ **Agentic AI Systems**
+- Multi-agent workflows (LangChain · LangGraph)
+- Autonomous decision pipelines
+- Tool-calling & memory-driven agents
+
+🎙️ **Voice & Conversational AI**
+- Medical Chatbots
+- Speech-to-Speech AI
+- Calling Agents (Twilio)
+
+⚙️ **MLOps & Deployment**
+- Dockerized model serving
+- FastAPI + Nginx + SSL
+- Monitoring with Prometheus & Grafana
+
+📊 **Data Engineering**
+- Apache Airflow · ETL Pipelines
+- Healthcare-grade data workflows
+
+---
+
+## 🧬 Tech Universe (Animated)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,kubernetes,nginx,postgres,mysql,redis,mongodb,airflow,tensorflow,pytorch,linux,git,github,jenkins,grafana,prometheus&perline=9"/>
+</p>
+
+---
+
+## 📈 Live GitHub Intelligence
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradippatel00754&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradippatel00754&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Flow (Animated)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake-dark.svg">
@@ -16,76 +86,15 @@
 
 ---
 
-## 🚀 About Me
-
-💡 **Results-driven Data Scientist & MLOps Engineer** with **2.5+ years** of experience in the **U.S. Healthcare domain**.
-
-I specialize in:
-- 🤖 **Generative AI & Agentic AI Systems**
-- 🧠 **LLMs (GPT-4, Mistral, Qwen)**
-- ⚙️ **End-to-End ML Systems (Training → Serving → Production)**
-- 🔐 **Secure, Scalable AI Deployments**
-
-I build **production-grade AI systems**, not demos.
-
----
-
-## 🧠 What I Do Best
-
-✨ **LLM & Agentic AI**
-- GPT-4 / GPT-3.5 / Mistral 7B / Qwen
-- LangChain · LangGraph · Prompt Engineering
-- Medical AI Chatbots & Voice Agents
-- Speech-to-Speech & Calling Agents (Twilio)
-
-⚙️ **Backend & APIs**
-- FastAPI · Flask · Streamlit
-- REST APIs · JWT Auth · WebSockets
-- Nginx Reverse Proxy + SSL/TLS
-
-📦 **MLOps & Deployment**
-- Docker · CI/CD Basics
-- Model Serving & Inference APIs
-- Observability (Prometheus, Grafana, Loki)
-
-📊 **Data Engineering**
-- Apache Airflow · Hadoop · ETL Pipelines
-- SQL · PostgreSQL · MySQL · MongoDB
-
----
-
-## 🧬 Tech Stack (Visual)
+## 🏆 Achievements & Impact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,kubernetes,nginx,postgres,mysql,redis,mongodb,linux,git,github,jenkins,grafana,prometheus,airflow,tensorflow,pytorch&perline=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&margin-w=15&no-frame=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pradippatel00754&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pradeep-patel-341b55146/">
@@ -93,11 +102,11 @@ I build **production-grade AI systems**, not demos.
   </a>
 </p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=pradippatel00754&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://visitcount.itsvg.in/api?id=pradippatel00754&icon=5&color=6"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:2c5364,100:0f2027"/>
 </p>
