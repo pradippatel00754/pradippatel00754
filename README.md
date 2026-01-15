@@ -1,21 +1,105 @@
-# 💫 About Me:
-SUMMARY<br>Results-driven Data Scientist and MLOps Engineer with 2.5+ years of experience in the U.S. healthcare domain,<br>specializing in Generative AI, Machine Learning, Deep Learning, and speech-enabled systems. Experienced in<br>building and deploying end-to-end AI solutions using OpenAI (GPT-4/3.5), Mistral 7B, and Qwen. Strong<br>expertise across the ML lifecycle, including data ingestion, model training, FastAPI-based serving, and production<br>deployment using Nginx with SSL. Skilled in agentic AI workflows, LLM integrations, and vector databases to<br>deliver scalable, secure healthcare automation solutions.<br>SKILLS<br>Programming & Core Libraries<br>Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras<br>Generative AI & Agentic Systems<br>OpenAI (GPT-3.5, GPT-4), Mistral 7B, Qwen<br>LangChain, LangGraph, Prompt Engineering, Agent-based Architectures<br>Medical AI Chatbots, Speech-to-Speech Bots, Calling Agents, Image-to-Text Extraction (Qwen), MCP<br>API & Application Development<br>FastAPI, Flask, Streamlit, RESTful APIs<br>Databases & Caching<br>MySQL, PostgreSQL, MongoDB, Redis<br>Vector Databases & Retrieval<br>ChromaDB, Pinecone, FAISS, Milvus<br>MLOps, Deployment & Infrastructure<br>Docker, Nginx (Reverse Proxy, SSL/TLS Binding), Model Serving & Inference APIs<br>CI/CD Basics, Model Versioning, Production Deployment<br>Data Engineering & Orchestration<br>Apache Airflow, Hadoop, Data Pipelines, ETL Workflows<br>Observability & Monitoring<br>Prometheus, Grafana, Alertmanager, Loki<br>Model & API Monitoring, Logging, Performance Metrics<br>Communication & Telephony APIs<br>Twilio (Voice, Call Automation, Speech Workflows)<br>Cloud & DevOps (Working Knowledge)<br>Linux (Red Hat, CentOS, Ubuntu), Git, GitHub, Server Management, Secure Deployments
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pradeep%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradeep-patel-341b55146/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pradippatel00754&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+MLOps+Engineer;Generative+AI+%26+Agentic+AI+Specialist;Healthcare+AI+Automation+Expert;LLMs+%7C+FastAPI+%7C+Docker+%7C+Nginx"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pradippatel00754&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+💡 **Results-driven Data Scientist & MLOps Engineer** with **2.5+ years** of experience in the **U.S. Healthcare domain**.
+
+I specialize in:
+- 🤖 **Generative AI & Agentic AI Systems**
+- 🧠 **LLMs (GPT-4, Mistral, Qwen)**
+- ⚙️ **End-to-End ML Systems (Training → Serving → Production)**
+- 🔐 **Secure, Scalable AI Deployments**
+
+I build **production-grade AI systems**, not demos.
+
+---
+
+## 🧠 What I Do Best
+
+✨ **LLM & Agentic AI**
+- GPT-4 / GPT-3.5 / Mistral 7B / Qwen
+- LangChain · LangGraph · Prompt Engineering
+- Medical AI Chatbots & Voice Agents
+- Speech-to-Speech & Calling Agents (Twilio)
+
+⚙️ **Backend & APIs**
+- FastAPI · Flask · Streamlit
+- REST APIs · JWT Auth · WebSockets
+- Nginx Reverse Proxy + SSL/TLS
+
+📦 **MLOps & Deployment**
+- Docker · CI/CD Basics
+- Model Serving & Inference APIs
+- Observability (Prometheus, Grafana, Loki)
+
+📊 **Data Engineering**
+- Apache Airflow · Hadoop · ETL Pipelines
+- SQL · PostgreSQL · MySQL · MongoDB
+
+---
+
+## 🧬 Tech Stack (Visual)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,kubernetes,nginx,postgres,mysql,redis,mongodb,linux,git,github,jenkins,grafana,prometheus,airflow,tensorflow,pytorch&perline=8"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradippatel00754&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradippatel00754&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradippatel00754&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&no-frame=false&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://github.com/pradippatel00754/pradippatel00754/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeep-patel-341b55146/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Patel-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=pradippatel00754&icon=5&color=6"/>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
