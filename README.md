@@ -54,7 +54,7 @@
 
 ---
 
-## 🧬 Tech Universe (Animated)
+## 🧬 Tech Universe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,docker,kubernetes,nginx,postgres,mysql,mongodb,redis,linux,git,github,jenkins,pytorch,tensorflow&perline=9"/>
 </p>
