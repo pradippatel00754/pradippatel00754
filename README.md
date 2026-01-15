@@ -7,6 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+MLOps+Engineer;Generative+AI+%26+Agentic+AI+Specialist;Healthcare+AI+Automation+Expert;LLMs+%7C+FastAPI+%7C+Docker+%7C+Nginx"/>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -66,17 +72,16 @@ I build **production-grade AI systems**, not demos.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&no-frame=false&margin-w=15"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=pradippatel00754&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/pradippatel00754/pradippatel00754/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/pradippatel00754/pradippatel00754/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
@@ -90,9 +95,7 @@ I build **production-grade AI systems**, not demos.
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pradippatel00754&icon=5&color=6"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=pradippatel00754&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Footer -->
 <p align="center">
